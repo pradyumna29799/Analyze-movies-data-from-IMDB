@@ -29,3 +29,7 @@ get_director_with_most_oscar_wins() - returns the director who has directed the 
 output_data(format="csv") - a wrapper function that returns the output in CSV or JSON format
 
 (Optional) get_genre_stats() - returns statistics for each genre, such as average budget, most common director, and most common cast member (actor)
+
+# Contact:
+
+If you have any questions or feedback, please contact me at my email address: pbadave9@gmail.com
